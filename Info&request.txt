@@ -1,0 +1,3 @@
+This is a optimized production build of news and please note its the developer version
+of the NEWS API so it only works in the localhost so in order to test the app you need to
+run it in the localhost. Thanks for opening
